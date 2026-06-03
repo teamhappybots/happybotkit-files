@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+.AppleDB
+.AppleDesktop
+.apdisk
+Icon
+
+# Thumbnails
+ehthumbs.db
+Thumbs.db
+
+# Network Trash Folder (macOS network shares)
+Network Trash Folder/
+Temporary Items/
